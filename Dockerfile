@@ -15,6 +15,7 @@ RUN apt-get update && apt-get install -y \
 # yt-dlp: 유튜브 다운로드 기능을 위해 추가
 RUN pip install --no-cache-dir \
     flask \
+    pymongo \
     "basic-pitch[tf]" \
     numpy \
     soundfile \

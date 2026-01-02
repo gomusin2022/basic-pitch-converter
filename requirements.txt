@@ -1,0 +1,7 @@
+flask
+pymongo
+basic-pitch
+tensorflow
+librosa
+numpy
+pretty_midi
